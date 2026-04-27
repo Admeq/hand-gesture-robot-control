@@ -56,7 +56,7 @@ void driveForward() {
   digitalWrite(LF, HIGH);
   digitalWrite(LB, HIGH);
   analogWrite(RPWM, moveSpeed);
-  analogWrite(LPWM, 180);
+  analogWrite(LPWM, moveSpeed);
 }
 
 void turnRight() {
