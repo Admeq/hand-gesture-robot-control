@@ -117,13 +117,9 @@ python python/gesture_control.py
 - Upload the code
 
 ## Demo
+Click the image below to view the demo video.
 
-Add the following when you can:
-- one clear photo of the robot
-- one screenshot of the hand landmark detection window
-- one short demo video link
-
-You can put the video link inside `media/demo_link.txt`.
+[![Hand Gesture Robot Demo](./media/demo_thumbnail.png)](./media/demo.mp4)
 
 ## Challenges Solved
 
