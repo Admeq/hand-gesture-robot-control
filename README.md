@@ -119,8 +119,8 @@ python python/gesture_control.py
 ## Demo
 Click the image below to view the demo video.
 
-[![Hand Gesture Robot Demo](./media/demo_thumbnail.png)](./media/demo.mp4)
-
+[![Hand Gesture Robot Demo](./media/demo_thumbnail.png)]
+https://github.com/user-attachments/assets/e04458cb-09c7-4aad-bb85-e49152f17ddb
 ## Challenges Solved
 
 - Converted webcam hand gestures into robot commands in real time
